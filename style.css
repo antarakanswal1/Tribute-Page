@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.heading{
+    /*
+    color:rgb(13, 13, 223); */
+    text-align: center;
+    color:rgb(90, 174, 207);
+    font-weight: 900;
+    font-family:Cambria (Headings);
+}
+
+.image img:hover{
+    box-shadow: 4px 4px 4px black;
+}
+
+.card1,.card2,.card3{
+    margin-left: 100px;
+}
+
+
+.twi{
+    font-size: 20px;
+}
+
+
+.about p a{
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.foot{
+    height: 330px;
+    color: black;
+    padding-top: 20px;
+    font-weight: 400;
+    background-color:rgb(90, 174, 207);
+}
+
+.abb{
+    text-decoration: solid underline black;
+    text-decoration-thickness: 3px;
+}
